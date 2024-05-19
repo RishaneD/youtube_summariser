@@ -4,7 +4,7 @@ With the YouTube Summariser app, you can quickly generate concise summaries of v
 
 I built this app because I wanted to quickly summarise content from Machine Learning lectures on YouTube. 
 
-You can use the app [here](). If you have any feedback, please email me at [rishanedassanayake@gmail.com](rishanedassanayake@gmail.com). I'd love to hear it!
+You can use the app [here](https://youtubesummariser-rishane-d.streamlit.app/s). If you have any feedback, please email me at [rishanedassanayake@gmail.com](rishanedassanayake@gmail.com). I'd love to hear it!
 
 ## Overview and Features
 
