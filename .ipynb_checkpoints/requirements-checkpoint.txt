@@ -1,0 +1,9 @@
+pandas
+numpy
+pytube
+youtube-transcript-api
+openai
+ipython
+requests
+charset_normalizer
+streamlit
